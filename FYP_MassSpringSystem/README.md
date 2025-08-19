@@ -24,7 +24,7 @@ A modular cloth physics library for Unity, featuring realistic cloth behavior, c
 
 ## Installation
 
-1. Download the package from this repositorys [Release Page](https://github.com/5eanH/Portfolio-Final-Yr-Project/releases/tag/v1.0).
+1. Download the package from this [Release Page](https://github.com/5eanH/Portfolio-Final-Yr-Project/releases/tag/v1.0).
 2. Open your Unity project.
 3. Import the package via `Assets > Import Package > Custom Package`.
 4. Drag the `ClothPrefab` into your Game Scene or your own empty GameObject.
